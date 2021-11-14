@@ -71,7 +71,7 @@ main {
 /* 上 */
 
 .cube .img5 {
-    background-image: url("../little_cute/5.PNG");
+    background-image: url("../little_cute/5.png");
     transform: rotateX(-90deg) translateZ(125px);
 }
 
